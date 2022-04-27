@@ -1,0 +1,17 @@
+{
+	"promptVSCodeSettings": true,
+	"geolocation": {
+		"data": {
+			"city": "Regensburg",
+			"country": {
+				"code": "DE",
+				"name": "Germany"
+			},
+			"subdivision": {
+				"code": "BY",
+				"name": "Bavaria"
+			}
+		},
+		"timestamp": 1651073982184
+	}
+}
